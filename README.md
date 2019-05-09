@@ -1,2 +1,3 @@
 # Pig-game
-es6
+Dice rolling based game 
+ES6
